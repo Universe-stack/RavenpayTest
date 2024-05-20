@@ -1,0 +1,23 @@
+.navbar{
+    width: 100vw;
+    background: #1C2127;
+    display: flex;
+    height: 72px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 16px;
+    padding-right: 32px;
+}
+
+.navbar__inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    color: aliceblue;
+}
+
+.navbar__inner__logo::after{
+    
+}
+

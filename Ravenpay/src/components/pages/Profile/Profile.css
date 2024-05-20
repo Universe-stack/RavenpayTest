@@ -1,0 +1,48 @@
+/* src/components/pages/Profile/Profile.css */
+
+.profile {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile__title {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .profile__avatar {
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .profile__email {
+    font-size: 18px;
+  }
+  
+  .profile__repositories {
+    margin-top: 30px;
+  }
+  
+  .profile__repositories h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .profile__repositories ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .profile__repositories li {
+    margin-bottom: 10px;
+  }
+  
+  .profile__repositories a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .profile__repositories a:hover {
+    text-decoration: underline;
+  }
+  
